@@ -1,0 +1,53 @@
+body {
+    background-image: url(../images/stacked-steps.png);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.card {
+    background-color: #001220;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.card .img {
+    background-image: url(../images/layered-waves.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.form-control {
+    background-color: transparent;
+}
+
+label {
+    color: #fff;
+}
+
+h1 {
+    font-family: "Titillium Web", sans-serif;
+    color: rgb(23, 162, 184);
+    font-size: 2.5rem;
+}
+
+p a {
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+.containerHome {
+    height: 75vh;
+}
+
+.nav-link {
+    border: 1px solid #ffc107;
+    background-color: transparent;
+    background-image: none;
+    border-color: #ffc107;
+    color: rgba(255, 255, 255, .5);
+}
