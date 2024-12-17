@@ -3,6 +3,8 @@ body {
     background-size: cover;
     background-position: center;
     font-family: 'Titillium Web', sans-serif;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
 
 .card {
